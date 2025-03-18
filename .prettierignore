@@ -1,0 +1,19 @@
+# 构建产物
+dist/
+node_modules/
+
+# 缓存
+.cache/
+*.log
+
+# 锁文件
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# 其他
+.DS_Store
+.vscode/
+.idea/
+.git/
+*.md 
